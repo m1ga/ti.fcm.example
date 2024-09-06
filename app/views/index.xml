@@ -1,0 +1,6 @@
+<Alloy>
+	<Window onOpen="onOpen">
+		<TextArea id="text" width="Ti.UI.FILL" height="200" top="0" />
+		<TextArea id="intentText" width="Ti.UI.FILL" height="200" top="210" />
+	</Window>
+</Alloy>
